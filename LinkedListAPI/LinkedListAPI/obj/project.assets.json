@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sarimoca\\source\\repos\\Sarimoca\\TareaExtraclase_3\\LinkedListAPI\\LinkedListAPI\\LinkedListAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Sarimoca\\Desktop\\Datos 1\\TareaExtraclase_3\\LinkedListAPI\\LinkedListAPI\\LinkedListAPI.csproj",
       "projectName": "LinkedListAPI",
-      "projectPath": "C:\\Users\\Sarimoca\\source\\repos\\Sarimoca\\TareaExtraclase_3\\LinkedListAPI\\LinkedListAPI\\LinkedListAPI.csproj",
+      "projectPath": "C:\\Users\\Sarimoca\\Desktop\\Datos 1\\TareaExtraclase_3\\LinkedListAPI\\LinkedListAPI\\LinkedListAPI.csproj",
       "packagesPath": "C:\\Users\\Sarimoca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sarimoca\\source\\repos\\Sarimoca\\TareaExtraclase_3\\LinkedListAPI\\LinkedListAPI\\obj\\",
+      "outputPath": "C:\\Users\\Sarimoca\\Desktop\\Datos 1\\TareaExtraclase_3\\LinkedListAPI\\LinkedListAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
